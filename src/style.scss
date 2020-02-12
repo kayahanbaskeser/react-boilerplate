@@ -1,0 +1,11 @@
+$bgColor: lightblue;
+$textColor: black;
+
+body {
+    background-color: $bgColor;
+    text-align: center;
+}
+
+p {
+    color: $textColor;
+}
